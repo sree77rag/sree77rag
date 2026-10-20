@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Sreerag, Software Developer and AI Enthusiast"/>
+<img src="https://raw.githubusercontent.com/sree77rag/sree77rag/main/assets/hero.svg" width="100%" alt="Sreerag, Software Developer and AI Enthusiast"/>
 
 <br/>
 
-<a href="https://github.com/sree77rag"><img src="assets/btn-github.svg" height="52" alt="View my GitHub"/></a>&nbsp;&nbsp;
-<a href="mailto:sreeragsn77@gmail.com"><img src="assets/btn-email.svg" height="52" alt="Send an email"/></a>
+<a href="https://github.com/sree77rag"><img src="https://raw.githubusercontent.com/sree77rag/sree77rag/main/assets/btn-github.svg" height="52" alt="View my GitHub"/></a>&nbsp;&nbsp;
+<a href="mailto:sreeragsn77@gmail.com"><img src="https://raw.githubusercontent.com/sree77rag/sree77rag/main/assets/btn-email.svg" height="52" alt="Send an email"/></a>
 
 <br/><br/>
 
@@ -15,29 +15,29 @@
 
 <br/>
 
-<img src="assets/h-about.svg" width="100%" alt="About"/>
+<img src="https://raw.githubusercontent.com/sree77rag/sree77rag/main/assets/h-about.svg" width="100%" alt="About"/>
 
-<img src="assets/about.svg" width="100%" alt="Developer profile: a Python class describing Sreerag, with learning topics and interests"/>
-
-<br/>
-
-<img src="assets/currently.svg" width="100%" alt="What I'm working on, collaborating on, exploring, and believe in"/>
+<img src="https://raw.githubusercontent.com/sree77rag/sree77rag/main/assets/about.svg" width="100%" alt="Developer profile: a Python class describing Sreerag, with learning topics and interests"/>
 
 <br/>
 
-<img src="assets/h-stack.svg" width="100%" alt="Stack"/>
-
-<img src="assets/stack.svg" width="100%" alt="Python, JavaScript, HTML, CSS, SQL, FastAPI, REST APIs, MySQL, SQLite, Firebase, Pandas, Git, GitHub, Bash, PowerShell, Apache Groovy, LLMs"/>
+<img src="https://raw.githubusercontent.com/sree77rag/sree77rag/main/assets/currently.svg" width="100%" alt="What I'm working on, collaborating on, exploring, and believe in"/>
 
 <br/>
 
-<img src="assets/h-focus.svg" width="100%" alt="Focus"/>
+<img src="https://raw.githubusercontent.com/sree77rag/sree77rag/main/assets/h-stack.svg" width="100%" alt="Stack"/>
 
-<img src="assets/focus.svg" width="100%" alt="Focus areas: AI engineering, backend development, open source, continuous learning"/>
+<img src="https://raw.githubusercontent.com/sree77rag/sree77rag/main/assets/stack.svg" width="100%" alt="Python, JavaScript, HTML, CSS, SQL, FastAPI, REST APIs, MySQL, SQLite, Firebase, Pandas, Git, GitHub, Bash, PowerShell, Apache Groovy, LLMs"/>
 
 <br/>
 
-<img src="assets/h-stats.svg" width="100%" alt="Activity"/>
+<img src="https://raw.githubusercontent.com/sree77rag/sree77rag/main/assets/h-focus.svg" width="100%" alt="Focus"/>
+
+<img src="https://raw.githubusercontent.com/sree77rag/sree77rag/main/assets/focus.svg" width="100%" alt="Focus areas: AI engineering, backend development, open source, continuous learning"/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/sree77rag/sree77rag/main/assets/h-stats.svg" width="100%" alt="Activity"/>
 
 <div align="center">
 
@@ -49,17 +49,17 @@
 
 <br/>
 
-<img src="assets/h-connect.svg" width="100%" alt="Connect"/>
+<img src="https://raw.githubusercontent.com/sree77rag/sree77rag/main/assets/h-connect.svg" width="100%" alt="Connect"/>
 
 <div align="center">
 
 **Interested in Python, AI integration, or open-source collaboration? Let's talk.**
 
-<a href="https://github.com/sree77rag"><img src="assets/btn-github.svg" height="52" alt="View my GitHub"/></a>&nbsp;&nbsp;
-<a href="mailto:sreeragsn77@gmail.com"><img src="assets/btn-email.svg" height="52" alt="Send an email"/></a>
+<a href="https://github.com/sree77rag"><img src="https://raw.githubusercontent.com/sree77rag/sree77rag/main/assets/btn-github.svg" height="52" alt="View my GitHub"/></a>&nbsp;&nbsp;
+<a href="mailto:sreeragsn77@gmail.com"><img src="https://raw.githubusercontent.com/sree77rag/sree77rag/main/assets/btn-email.svg" height="52" alt="Send an email"/></a>
 
 <br/><br/>
 
-<img src="assets/footer.svg" width="100%" alt="Stay curious. Keep learning. Build things that matter."/>
+<img src="https://raw.githubusercontent.com/sree77rag/sree77rag/main/assets/footer.svg" width="100%" alt="Stay curious. Keep learning. Build things that matter."/>
 
 </div>
