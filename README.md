@@ -21,19 +21,19 @@
 
 <br/>
 
-🔭 &nbsp;**FOCUS**<br/>
+ &nbsp;**FOCUS**<br/>
 Strengthening software development and AI development skills
 
-🌱 &nbsp;**LEARNING**<br/>
+ &nbsp;**LEARNING**<br/>
 Python · FastAPI · REST APIs · Databases · LLMs · AI application development
 
-👯 &nbsp;**COLLABORATING ON**<br/>
+ &nbsp;**COLLABORATING ON**<br/>
 Python, AI integration, and open-source projects
 
-🤝 &nbsp;**SEEKING HELP WITH**<br/>
+ &nbsp;**SEEKING HELP WITH**<br/>
 AI engineering, LLM applications, and real-world software development practices
 
-⚡ &nbsp;**PHILOSOPHY**<br/>
+ &nbsp;**PHILOSOPHY**<br/>
 **CONSISTENT** learning &nbsp;×&nbsp; **CURIOSITY**
 
 <br/>
