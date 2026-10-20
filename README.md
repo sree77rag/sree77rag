@@ -1,7 +1,6 @@
-<!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:000000,45:5C0000,100:FF1E1E&text=SREERAG%20S%20NAIR&fontColor=FFFFFF&fontSize=48&fontAlign=50&fontAlignY=42&animation=twinkling&stroke=FF1E1E&strokeWidth=1&desc=SOFTWARE%20%C2%B7%20AI%20ENGINEERING%20%C2%B7%20PYTHON&descColor=FF4D4D&descSize=16&descAlign=50&descAlignY=62" width="100%" alt="header" />
+<img src="./assets/hero.svg" width="100%" alt="Sreerag S Nair — Software · AI Engineering · Python" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=900&color=FF1E1E&center=true&vCenter=true&width=560&lines=Building+practical+AI+applications;Learning+Python+%C2%B7+FastAPI+%C2%B7+LLMs;Consistency+%C3%97+Curiosity+%3D+Growth" alt="typing" />
 
@@ -10,29 +9,38 @@
 [![Email](https://img.shields.io/badge/EMAIL-sreeragsn77%40gmail.com-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FF1E1E&labelColor=0D0D0D&color=FF1E1E)](mailto:sreeragsn77@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-sree77rag-0D0D0D?style=for-the-badge&logo=github&logoColor=FF1E1E&labelColor=0D0D0D&color=FF1E1E)](https://github.com/sree77rag)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:000000,50:FF1E1E,100:000000" width="100%" alt="divider" />
-
 </div>
 
-## 🔴 &nbsp;ABOUT ME
-
-> *"Consistent learning and curiosity can turn ambitious ideas into practical solutions."*
-
-| | |
-|:--|:--|
-| 🔭 **Focus** | Strengthening software development and AI development skills |
-| 🌱 **Learning** | Python · FastAPI · REST APIs · Databases · LLMs · AI application development |
-| 👯 **Collaborating on** | Python, AI integration, and open-source projects |
-| 🤝 **Seeking help with** | AI engineering, LLM applications, and real-world software development practices |
-| ⚡ **Philosophy** | **CONSISTENT** learning & **CURIOSITY** |
+<br/>
 
 <div align="center">
+
+### 🔴 &nbsp;ABOUT ME
+
+<sub>*"Consistent learning and curiosity can turn ambitious ideas into practical solutions."*</sub>
+
+<br/>
+
+🔭 &nbsp;**FOCUS**<br/>
+Strengthening software development and AI development skills
+
+🌱 &nbsp;**LEARNING**<br/>
+Python · FastAPI · REST APIs · Databases · LLMs · AI application development
+
+👯 &nbsp;**COLLABORATING ON**<br/>
+Python, AI integration, and open-source projects
+
+🤝 &nbsp;**SEEKING HELP WITH**<br/>
+AI engineering, LLM applications, and real-world software development practices
+
+⚡ &nbsp;**PHILOSOPHY**<br/>
+**CONSISTENT** learning &nbsp;×&nbsp; **CURIOSITY**
+
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:000000,50:FF1E1E,100:000000" width="100%" alt="divider" />
-</div>
 
-## 🔴 &nbsp;TECH STACK
-
-<div align="center">
+### 🔴 &nbsp;TECH STACK
 
 **`LANGUAGES`**<br/><br/>
 ![Python](https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=FF1E1E)
@@ -56,11 +64,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:000000,50:FF1E1E,100:000000" width="100%" alt="divider" />
 
-</div>
-
-## 🔴 &nbsp;GITHUB STATS
-
-<div align="center">
+### 🔴 &nbsp;GITHUB STATS
 
 <img height="175" src="https://github-readme-stats.shion.dev/api?username=sree77rag&hide_border=true&bg_color=0D0D0D&title_color=FF1E1E&text_color=E5E5E5&icon_color=FF1E1E&ring_color=FF1E1E&include_all_commits=false&count_private=false" alt="stats" />
 <img height="175" src="https://github-readme-stats.shion.dev/api/top-langs/?username=sree77rag&hide_border=true&bg_color=0D0D0D&title_color=FF1E1E&text_color=E5E5E5&layout=compact&include_all_commits=false&count_private=false" alt="top languages" />
@@ -69,15 +73,7 @@
 
 <img src="https://streak-stats.demolab.com/?user=sree77rag&hide_border=true&background=0D0D0D&ring=FF1E1E&fire=FF1E1E&currStreakNum=FF1E1E&sideNums=FF1E1E&currStreakLabel=FF4D4D&sideLabels=E5E5E5&dates=9CA3AF" alt="streak" />
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sree77rag&bg_color=0D0D0D&color=FF4D4D&line=FF1E1E&point=FFFFFF&area=true&area_color=FF1E1E&hide_border=true&title_color=FF1E1E" width="95%" alt="activity graph" />
-
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 [![Views](https://komarev.com/ghpvc/?username=sree77rag&icon=4&color=FF1E1E&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0D0D0D)](https://visitcount.itsvg.in)
 
