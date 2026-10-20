@@ -1,81 +1,86 @@
 <!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,100:1F2937&text=Sreerag%20S%20Nair&fontColor=E5C07B&fontSize=44&fontAlignY=38&desc=Software%20%C2%B7%20AI%20Engineering%20%C2%B7%20Python&descColor=9CA3AF&descSize=15&descAlignY=58" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:000000,45:5C0000,100:FF1E1E&text=SREERAG%20S%20NAIR&fontColor=FFFFFF&fontSize=48&fontAlign=50&fontAlignY=42&animation=twinkling&stroke=FF1E1E&strokeWidth=1&desc=SOFTWARE%20%C2%B7%20AI%20ENGINEERING%20%C2%B7%20PYTHON&descColor=FF4D4D&descSize=16&descAlign=50&descAlignY=62" width="100%" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=3200&pause=1000&color=9CA3AF&center=true&vCenter=true&width=520&lines=Building+practical+AI+applications;Learning+Python+%C2%B7+FastAPI+%C2%B7+LLMs;Consistency+%C3%97+Curiosity" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=900&color=FF1E1E&center=true&vCenter=true&width=560&lines=Building+practical+AI+applications;Learning+Python+%C2%B7+FastAPI+%C2%B7+LLMs;Consistency+%C3%97+Curiosity+%3D+Growth" alt="typing" />
 
-<br/>
+<br/><br/>
 
-[![Email](https://img.shields.io/badge/Email-sreeragsn77%40gmail.com-1F2937?style=flat-square&logo=gmail&logoColor=E5C07B)](mailto:sreeragsn77@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-sree77rag-1F2937?style=flat-square&logo=github&logoColor=E5C07B)](https://github.com/sree77rag)
+[![Email](https://img.shields.io/badge/EMAIL-sreeragsn77%40gmail.com-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FF1E1E&labelColor=0D0D0D&color=FF1E1E)](mailto:sreeragsn77@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-sree77rag-0D0D0D?style=for-the-badge&logo=github&logoColor=FF1E1E&labelColor=0D0D0D&color=FF1E1E)](https://github.com/sree77rag)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:000000,50:FF1E1E,100:000000" width="100%" alt="divider" />
 
 </div>
 
-<br/>
+## 🔴 &nbsp;ABOUT ME
 
----
-
-## &nbsp;About
-
-> *Consistent learning and curiosity can turn ambitious ideas into practical solutions.*
+> *"Consistent learning and curiosity can turn ambitious ideas into practical solutions."*
 
 | | |
-|---|---|
-| **Focus** | Strengthening software development and AI development skills |
-| **Learning** | Python · FastAPI · REST APIs · Databases · LLMs · AI application development |
-| **Collaborating on** | Python, AI integration, and open-source projects |
-| **Seeking help with** | AI engineering, LLM applications, and real-world software development practices |
+|:--|:--|
+| 🔭 **Focus** | Strengthening software development and AI development skills |
+| 🌱 **Learning** | Python · FastAPI · REST APIs · Databases · LLMs · AI application development |
+| 👯 **Collaborating on** | Python, AI integration, and open-source projects |
+| 🤝 **Seeking help with** | AI engineering, LLM applications, and real-world software development practices |
+| ⚡ **Philosophy** | **CONSISTENT** learning & **CURIOSITY** |
 
-<br/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:000000,50:FF1E1E,100:000000" width="100%" alt="divider" />
+</div>
 
-## &nbsp;Tech Stack
+## 🔴 &nbsp;TECH STACK
 
 <div align="center">
 
-**Languages**<br/>
-![Python](https://img.shields.io/badge/Python-1F2937?style=flat-square&logo=python&logoColor=E5C07B)
-![JavaScript](https://img.shields.io/badge/JavaScript-1F2937?style=flat-square&logo=javascript&logoColor=E5C07B)
-![Groovy](https://img.shields.io/badge/Groovy-1F2937?style=flat-square&logo=apachegroovy&logoColor=E5C07B)
-![Bash](https://img.shields.io/badge/Bash-1F2937?style=flat-square&logo=gnubash&logoColor=E5C07B)
-![PowerShell](https://img.shields.io/badge/PowerShell-1F2937?style=flat-square&logo=powershell&logoColor=E5C07B)
-![HTML5](https://img.shields.io/badge/HTML5-1F2937?style=flat-square&logo=html5&logoColor=E5C07B)
-![CSS3](https://img.shields.io/badge/CSS3-1F2937?style=flat-square&logo=css3&logoColor=E5C07B)
+**`LANGUAGES`**<br/><br/>
+![Python](https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=FF1E1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=FF1E1E)
+![Groovy](https://img.shields.io/badge/Groovy-0D0D0D?style=for-the-badge&logo=apachegroovy&logoColor=FF1E1E)
+![Bash](https://img.shields.io/badge/Bash-0D0D0D?style=for-the-badge&logo=gnubash&logoColor=FF1E1E)
+![PowerShell](https://img.shields.io/badge/PowerShell-0D0D0D?style=for-the-badge&logo=powershell&logoColor=FF1E1E)
+![HTML5](https://img.shields.io/badge/HTML5-0D0D0D?style=for-the-badge&logo=html5&logoColor=FF1E1E)
+![CSS3](https://img.shields.io/badge/CSS3-0D0D0D?style=for-the-badge&logo=css3&logoColor=FF1E1E)
 
-**Backend & Data**<br/>
-![FastAPI](https://img.shields.io/badge/FastAPI-1F2937?style=flat-square&logo=fastapi&logoColor=E5C07B)
-![Pandas](https://img.shields.io/badge/Pandas-1F2937?style=flat-square&logo=pandas&logoColor=E5C07B)
-![MySQL](https://img.shields.io/badge/MySQL-1F2937?style=flat-square&logo=mysql&logoColor=E5C07B)
-![SQLite](https://img.shields.io/badge/SQLite-1F2937?style=flat-square&logo=sqlite&logoColor=E5C07B)
-![Firebase](https://img.shields.io/badge/Firebase-1F2937?style=flat-square&logo=firebase&logoColor=E5C07B)
+**`BACKEND & DATA`**<br/><br/>
+![FastAPI](https://img.shields.io/badge/FastAPI-0D0D0D?style=for-the-badge&logo=fastapi&logoColor=FF1E1E)
+![Pandas](https://img.shields.io/badge/Pandas-0D0D0D?style=for-the-badge&logo=pandas&logoColor=FF1E1E)
+![MySQL](https://img.shields.io/badge/MySQL-0D0D0D?style=for-the-badge&logo=mysql&logoColor=FF1E1E)
+![SQLite](https://img.shields.io/badge/SQLite-0D0D0D?style=for-the-badge&logo=sqlite&logoColor=FF1E1E)
+![Firebase](https://img.shields.io/badge/Firebase-0D0D0D?style=for-the-badge&logo=firebase&logoColor=FF1E1E)
 
-**Tools**<br/>
-![Git](https://img.shields.io/badge/Git-1F2937?style=flat-square&logo=git&logoColor=E5C07B)
-![GitHub](https://img.shields.io/badge/GitHub-1F2937?style=flat-square&logo=github&logoColor=E5C07B)
+**`TOOLS`**<br/><br/>
+![Git](https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=FF1E1E)
+![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=FF1E1E)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:000000,50:FF1E1E,100:000000" width="100%" alt="divider" />
+
+</div>
+
+## 🔴 &nbsp;GITHUB STATS
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.shion.dev/api?username=sree77rag&hide_border=true&bg_color=0D0D0D&title_color=FF1E1E&text_color=E5E5E5&icon_color=FF1E1E&ring_color=FF1E1E&include_all_commits=false&count_private=false" alt="stats" />
+<img height="175" src="https://github-readme-stats.shion.dev/api/top-langs/?username=sree77rag&hide_border=true&bg_color=0D0D0D&title_color=FF1E1E&text_color=E5E5E5&layout=compact&include_all_commits=false&count_private=false" alt="top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=sree77rag&hide_border=true&background=0D0D0D&ring=FF1E1E&fire=FF1E1E&currStreakNum=FF1E1E&sideNums=FF1E1E&currStreakLabel=FF4D4D&sideLabels=E5E5E5&dates=9CA3AF" alt="streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sree77rag&bg_color=0D0D0D&color=FF4D4D&line=FF1E1E&point=FFFFFF&area=true&area_color=FF1E1E&hide_border=true&title_color=FF1E1E" width="95%" alt="activity graph" />
 
 </div>
 
 <br/>
 
-## &nbsp;GitHub Stats
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.shion.dev/api?username=sree77rag&hide_border=true&bg_color=0D1117&title_color=E5C07B&text_color=9CA3AF&icon_color=E5C07B&include_all_commits=false&count_private=false" alt="stats" />
-<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=sree77rag&hide_border=true&bg_color=0D1117&title_color=E5C07B&text_color=9CA3AF&layout=compact&include_all_commits=false&count_private=false" alt="top languages" />
+[![Views](https://komarev.com/ghpvc/?username=sree77rag&icon=4&color=FF1E1E&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0D0D0D)](https://visitcount.itsvg.in)
 
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=sree77rag&hide_border=true&background=0D1117&ring=E5C07B&fire=E5C07B&currStreakNum=E5C07B&sideNums=E5C07B&currStreakLabel=9CA3AF&sideLabels=9CA3AF&dates=6B7280" alt="streak" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![Visitors](https://komarev.com/ghpvc/?username=sree77rag&icon=4&color=1F2937&style=flat-square&label=PROFILE+VIEWS)](https://visitcount.itsvg.in)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1F2937,100:0D1117&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,60:5C0000,100:FF1E1E&section=footer&animation=twinkling" width="100%" alt="footer" />
 
 </div>
