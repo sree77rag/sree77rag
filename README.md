@@ -1,135 +1,134 @@
+<!-- ===================== HEADER ===================== -->
+
 <div align="center">
 
-<!-- HERO -->
-<img src="./hero.svg" width="100%" alt="Sreerag S Nair — Software Development and AI Engineering" />
+# 👋 Hey, I'm Sreerag!
 
-<br/>
+### Aspiring AI Engineer | Python Backend Developer | AI Integration
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=FF4D6D&center=true&vCenter=true&width=650&lines=Building+practical+AI+applications;Learning+Python+%C2%B7+FastAPI+%C2%B7+LLMs;Consistency+%C3%97+Curiosity+%3D+Growth" alt="Developer tagline" />
-</a>
+Building my skills to turn practical problems into intelligent software solutions.
 
-<br/><br/>
+<br>
 
-<a href="mailto:sreeragsn77@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-FF2A2A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://github.com/sree77rag">
-  <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=sree77rag&style=flat-square&color=ff2a2a&label=PROFILE+VIEWS" alt="Profile views"/>
+[![GitHub](https://img.shields.io/badge/GitHub-sree77rag-181717?style=for-the-badge&logo=github)](https://github.com/sree77rag)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sreeragsn77@gmail.com)
 
 </div>
 
 ---
 
-<h2 align="center">ABOUT ME</h2>
+<!-- ===================== ABOUT ME ===================== -->
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## 🚀 About Me
 
-### `01` — What I'm Working On
+I'm a software development enthusiast focused on building a strong foundation in backend engineering and AI-powered applications.
 
-Strengthening my software development and AI development skills.
+- 🤖 **Primary Interest:** AI Engineering and AI-integrated software development.
+- 🐍 **Backend Development:** Python, FastAPI, and REST APIs.
+- 🧠 **Currently Exploring:** LLMs and practical AI application development.
+- 🗄️ **Working With:** SQL databases and backend fundamentals.
+- 🤝 **Open To:** Python development, AI integration, and open-source collaboration.
+- 🎯 **Long-Term Goal:** Build reliable AI-powered applications that solve real-world problems.
 
-### `02` — Collaboration
+> 💡 I believe consistent learning and curiosity can turn ambitious ideas into practical solutions.
 
-Interested in Python, AI integration, and open-source projects.
+---
 
-</td>
-<td width="50%" valign="top">
+<!-- ===================== TECH STACK ===================== -->
 
-### `03` — Exploring
+## 🛠️ Technology Stack
 
-AI engineering, LLM applications, and real-world software development practices.
+### 💻 Languages & Web
 
-### `04` — Currently Learning
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
 
-Python, FastAPI, REST APIs, databases, LLMs, and AI application development.
+### ⚙️ Backend & APIs
 
-</td>
-</tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge" alt="REST APIs"/>
+</p>
+
+### 🗄️ Databases & Data
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+</p>
+
+### 🔧 Developer Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+</p>
+
+---
+
+<!-- ===================== CURRENT FOCUS ===================== -->
+
+## 🧠 What I'm Learning
+
+| Area | Focus |
+|---|---|
+| 🐍 Python | Writing clean, maintainable code |
+| ⚙️ Backend | FastAPI, REST APIs, and application architecture |
+| 🗄️ Databases | SQL, data modeling, and database integration |
+| 🤖 AI Engineering | LLMs and AI application development |
+| 🔗 AI Integration | Connecting AI capabilities with software applications |
+| 🌍 Open Source | Git, GitHub, collaboration, and contributions |
+
+---
+
+<!-- ===================== GITHUB ANALYTICS ===================== -->
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-> **CONSISTENCY × CURIOSITY = GROWTH**
->
-> Turning ambitious ideas into practical solutions through continuous learning.
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sree77rag&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=sree77rag&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+
+<br><br>
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sree77rag&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 
 </div>
 
 ---
 
-<h2 align="center">TECH STACK</h2>
+<!-- ===================== CONNECT ===================== -->
+
+## 🤝 Let's Connect
+
+Interested in collaborating on Python development, AI integration, and open-source projects?
 
 <div align="center">
 
-### Languages & Web Development
+📩 **Email:** [sreeragsn77@gmail.com](mailto:sreeragsn77@gmail.com)
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
-<img src="https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white" alt="Apache Groovy"/>
+💻 **GitHub:** [@sree77rag](https://github.com/sree77rag)
 
-### Backend & Databases
+<br>
 
-<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
-
-### Data & Developer Tools
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+*Learning continuously. Building thoughtfully. Improving every day.*
 
 </div>
 
 ---
 
-<h2 align="center">GITHUB STATISTICS</h2>
-
 <div align="center">
 
-<a href="https://github.com/sree77rag">
-  <img height="170" src="https://github-readme-stats.shion.dev/api?username=sree77rag&hide_border=true&border_radius=12&bg_color=0A0A0A&title_color=FF4D6D&text_color=E5E5E5&icon_color=FF2A2A&include_all_commits=false&count_private=false" alt="GitHub statistics"/>
-</a>
-
-<a href="https://github.com/sree77rag">
-  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=sree77rag&hide_border=true&border_radius=12&bg_color=0A0A0A&title_color=FF4D6D&text_color=E5E5E5&layout=compact&include_all_commits=false&count_private=false" alt="Top languages"/>
-</a>
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com/?user=sree77rag&hide_border=true&border_radius=12&background=0A0A0A&ring=FF2A2A&fire=FF4D6D&currStreakNum=FF4D6D&sideNums=FF4D6D&currStreakLabel=FF4D6D&sideLabels=E5E5E5&dates=9CA3AF" alt="GitHub contribution streak"/>
-
-</div>
-
----
-
-<h2 align="center">CONNECT WITH ME</h2>
-
-<div align="center">
-
-<a href="mailto:sreeragsn77@gmail.com">
-  <img src="https://img.shields.io/badge/Email-sreeragsn77%40gmail.com-FF2A2A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/>
-</a>
-
-<a href="https://github.com/sree77rag">
-  <img src="https://img.shields.io/badge/GitHub-@sree77rag-111111?style=for-the-badge&logo=github&logoColor=white" alt="Visit GitHub"/>
-</a>
-
-<br/><br/>
-
-<sub>Designed with purpose. Built with curiosity. Improved through consistency.</sub>
+![Profile Views](https://komarev.com/ghpvc/?username=sree77rag&label=Profile%20Views&color=blueviolet&style=flat)
 
 </div>
