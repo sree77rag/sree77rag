@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Sreerag S Nair — Software · AI Engineering · Python" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:000000,45:5C0000,100:FF1E1E&text=SREERAG%20S%20NAIR&fontColor=FFFFFF&fontSize=48&fontAlign=50&fontAlignY=42&animation=twinkling&stroke=FF1E1E&strokeWidth=1&desc=SOFTWARE%20%C2%B7%20AI%20ENGINEERING%20%C2%B7%20PYTHON&descColor=FF4D4D&descSize=16&descAlign=50&descAlignY=62" width="100%" alt="Sreerag S Nair" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=900&color=FF1E1E&center=true&vCenter=true&width=560&lines=Building+practical+AI+applications;Learning+Python+%C2%B7+FastAPI+%C2%B7+LLMs;Consistency+%C3%97+Curiosity+%3D+Growth" alt="typing" />
 
