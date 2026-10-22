@@ -158,3 +158,21 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,55:5a0000,100:e50914&height=130&section=footer" alt="footer" width="100%"/>
 
 </div>
+
+</td>
+<td width="38%" align="center" valign="middle">
+
+<a href="https://github.com/sree77rag"><img src="assets/profile-sketch.gif" alt="Sreerag S Nair - animated sketch" width="300"/></a>
+<a href="https://github.com/sree77rag"><img src="https://github.com/sree77rag.png?size=400" alt="Sreerag S Nair" width="260"/></a>
+
+<sub><code>LEARN · BUILD · EXPLORE · COLLABORATE · GROW</code></sub>
+
+@@ -136,6 +136,10 @@
+<img height="170" src="https://streak-stats.demolab.com?user=sree77rag&background=0A0000&ring=E50914&fire=FF3B3B&currStreakNum=FFFFFF&currStreakLabel=E50914&sideNums=FFFFFF&sideLabels=E50914&dates=9CA3AF&stroke=7A0000&border=7A0000" alt="Streak stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sree77rag&layout=donut&langs_count=5&hide_border=false&bg_color=0a0000&title_color=e50914&text_color=ffffff&border_color=7a0000" alt="Most used languages"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sree77rag&bg_color=0a0000&color=ff3b3b&line=e50914&point=ffffff&area=true&area_color=e50914&hide_border=true&title_color=e50914" alt="Contribution activity graph" width="95%"/>
+
+</div>
