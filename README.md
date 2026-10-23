@@ -1,160 +1,168 @@
-<!-- ═══════════════ HEADER BANNER ═══════════════ -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:5a0000,100:e50914&height=230&section=header&text=SREERAG%20S%20NAIR&fontSize=58&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=HELLO%2C%20I'M&descAlignY=18&descSize=14" alt="Sreerag S Nair banner" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=E50914&center=true&vCenter=true&width=640&height=40&lines=SOFTWARE+%C2%B7+AI+ENGINEERING+%C2%B7+PYTHON;BUILD+%C2%B7+LEARN+%C2%B7+IMPROVE+%C2%B7+REPEAT" alt="Typing animation"/>
-
-</div>
-
-<!-- ═══════════════ HERO ═══════════════ -->
-<table align="center" width="100%">
-<tr>
-<td width="62%" valign="middle">
-
-<h3>Building my skills to turn practical problems into <font color="#e50914">intelligent software solutions.</font></h3>
-
-<p>
-<img src="https://img.shields.io/badge/PYTHON-0a0a0a?style=for-the-badge&logo=python&logoColor=e50914&labelColor=0a0a0a&color=e50914" alt="Python"/>
-<img src="https://img.shields.io/badge/FASTAPI-0a0a0a?style=for-the-badge&logo=fastapi&logoColor=e50914&labelColor=0a0a0a&color=e50914" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/LLM%20APPS-0a0a0a?style=for-the-badge&logo=openai&logoColor=e50914&labelColor=0a0a0a&color=e50914" alt="LLM Apps"/>
-<img src="https://img.shields.io/badge/OPEN%20SOURCE-0a0a0a?style=for-the-badge&logo=opensourceinitiative&logoColor=e50914&labelColor=0a0a0a&color=e50914" alt="Open Source"/>
-</p>
-
-<p>
-<a href="mailto:sreeragsn77@gmail.com"><img src="https://img.shields.io/badge/Email-sreeragsn77%40gmail.com-0a0a0a?style=for-the-badge&logo=gmail&logoColor=e50914&labelColor=0a0a0a&color=7a0000" alt="Email"/></a>
-<a href="https://github.com/sree77rag"><img src="https://img.shields.io/badge/GitHub-%40sree77rag-0a0a0a?style=for-the-badge&logo=github&logoColor=e50914&labelColor=0a0a0a&color=7a0000" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=e50914&labelColor=0a0a0a&color=7a0000" alt="LinkedIn"/></a>
-</p>
-
-</td>
-<td width="38%" align="center" valign="middle">
-
-<a href="https://github.com/sree77rag"><img src="https://github.com/sree77rag.png?size=400" alt="Sreerag S Nair" width="260"/></a>
-
-<sub><code>LEARN · BUILD · EXPLORE · COLLABORATE · GROW</code></sub>
-
-</td>
-</tr>
-</table>
-
-<!-- ═══════════════ ABOUT ME ═══════════════ -->
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=1&pause=100000&color=FFFFFF&center=true&vCenter=true&width=420&height=50&repeat=false&lines=A+B+O+U+T++M+E" alt="About Me"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:e50914,100:000000&height=2" width="70%" alt="divider"/>
-
-</div>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-<h4><font color="#e50914">01 · FOCUS</font></h4>
-🎯 Strengthening software development and AI development skills.
-
-</td>
-<td width="50%" valign="top">
-
-<h4><font color="#e50914">02 · LEARNING</font></h4>
-📖 Python · FastAPI · REST APIs · Databases<br/>LLMs · AI application development.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h4><font color="#e50914">03 · COLLABORATING ON</font></h4>
-👥 Python, AI integration, and open-source projects.
-
-</td>
-<td width="50%" valign="top">
-
-<h4><font color="#e50914">04 · SEEKING HELP WITH</font></h4>
-🤝 AI engineering, LLM applications, and real-world software development practices.
-
-</td>
-</tr>
-</table>
+<!-- SPIDER-MAN COMIC-BOOK INSPIRED DEVELOPER PROFILE -->
 
 <div align="center">
 
-> ❝ *Consistent learning and curiosity can turn ambitious ideas into practical solutions.* ❞
->
-> **`CONSISTENT  ×  CURIOSITY`**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:4b0000,100:E62429&height=230&section=header&text=SREERAG%20S%20NAIR&fontSize=54&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=CODE%20LIKE%20A%20HERO%20%E2%80%A2%20BUILD%20WITH%20PURPOSE&descAlignY=60&descSize=14" width="100%" alt="Sreerag S Nair banner"/>
 
-</div>
-
-<!-- ═══════════════ TECH STACK ═══════════════ -->
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=1&pause=100000&color=FFFFFF&center=true&vCenter=true&width=420&height=50&repeat=false&lines=T+E+C+H++S+T+A+C+K" alt="Tech Stack"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:e50914,100:000000&height=2" width="70%" alt="divider"/>
-
-<h4><code>🔴 LANGUAGES &amp; WEB</code></h4>
-
-<table>
-<tr align="center">
-<td width="110"><img src="https://skillicons.dev/icons?i=py&theme=dark" width="52" alt="Python"/><br/><sub><b>PYTHON</b></sub></td>
-<td width="110"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="52" alt="JavaScript"/><br/><sub><b>JAVASCRIPT</b></sub></td>
-<td width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" width="52" height="52" alt="Groovy"/><br/><sub><b>GROOVY</b></sub></td>
-<td width="110"><img src="https://skillicons.dev/icons?i=bash&theme=dark" width="52" alt="Bash"/><br/><sub><b>BASH</b></sub></td>
-<td width="110"><img src="https://skillicons.dev/icons?i=powershell&theme=dark" width="52" alt="PowerShell"/><br/><sub><b>POWERSHELL</b></sub></td>
-<td width="110"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="52" alt="HTML5"/><br/><sub><b>HTML5</b></sub></td>
-<td width="110"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="52" alt="CSS3"/><br/><sub><b>CSS3</b></sub></td>
-</tr>
-</table>
-
-<h4><code>🔴 BACKEND · DATA · TOOLS</code></h4>
-
-<table>
-<tr align="center">
-<td width="110"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="52" alt="FastAPI"/><br/><sub><b>FASTAPI</b></sub></td>
-<td width="110"><img src="https://skillicons.dev/icons?i=pandas&theme=dark" width="52" alt="Pandas"/><br/><sub><b>PANDAS</b></sub></td>
-<td width="110"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="52" alt="MySQL"/><br/><sub><b>MYSQL</b></sub></td>
-<td width="110"><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="52" alt="SQLite"/><br/><sub><b>SQLITE</b></sub></td>
-<td width="110"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="52" alt="Firebase"/><br/><sub><b>FIREBASE</b></sub></td>
-<td width="110"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="52" alt="Git"/><br/><sub><b>GIT</b></sub></td>
-<td width="110"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="52" alt="GitHub"/><br/><sub><b>GITHUB</b></sub></td>
-</tr>
-</table>
-
-</div>
-
-<!-- ═══════════════ GITHUB STATS ═══════════════ -->
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=1&pause=100000&color=FFFFFF&center=true&vCenter=true&width=480&height=50&repeat=false&lines=G+I+T+H+U+B++S+T+A+T+S" alt="GitHub Stats"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:e50914,100:000000&height=2" width="70%" alt="divider"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&pause=1200&color=E62429&center=true&vCenter=true&width=720&height=42&lines=SOFTWARE+DEVELOPMENT+%2F%2F+AI+ENGINEERING;PYTHON+%E2%80%A2+FASTAPI+%E2%80%A2+LLM+APPLICATIONS;LEARN.+BUILD.+TEST.+IMPROVE." alt="Developer tagline"/>
 
 <br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sree77rag&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=0a0000&title_color=e50914&icon_color=e50914&text_color=ffffff&border_color=7a0000&hide=issues" alt="GitHub stats"/>
-<img height="170" src="https://streak-stats.demolab.com?user=sree77rag&background=0A0000&ring=E50914&fire=FF3B3B&currStreakNum=FFFFFF&currStreakLabel=E50914&sideNums=FFFFFF&sideLabels=E50914&dates=9CA3AF&stroke=7A0000&border=7A0000" alt="Streak stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sree77rag&layout=donut&langs_count=5&hide_border=false&bg_color=0a0000&title_color=e50914&text_color=ffffff&border_color=7a0000" alt="Most used languages"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sree77rag&bg_color=0a0000&color=ff3b3b&line=e50914&point=ffffff&area=true&area_color=e50914&hide_border=true&title_color=e50914" alt="Contribution activity graph" width="95%"/>
+<a href="mailto:sreeragsn77@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-111111?style=for-the-badge&logo=gmail&logoColor=E62429&labelColor=111111&color=8B0000" alt="Email"/></a>
+<a href="https://github.com/sree77rag"><img src="https://img.shields.io/badge/GITHUB-SREE77RAG-111111?style=for-the-badge&logo=github&logoColor=E62429&labelColor=111111&color=8B0000" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-111111?style=for-the-badge&logo=linkedin&logoColor=E62429&labelColor=111111&color=8B0000" alt="LinkedIn"/></a>
 
 </div>
 
-<!-- ═══════════════ FOOTER ═══════════════ -->
-<div align="center">
+---
+
+<table>
+<tr>
+<td width="64%" valign="middle">
+
+## ⚡ THE ORIGIN STORY
+
+### Turning practical problems into intelligent software solutions.
+
+I'm strengthening my skills in software development and AI engineering, with a focus on building useful applications, learning how systems work, and improving through consistent practice.
+
+**CURRENT MISSION**
+
+- 🐍 Strengthen my Python and backend development skills.
+- 🤖 Explore AI integration, LLM applications, and practical AI engineering.
+- 🔌 Learn to design and build reliable REST APIs.
+- 🌐 Collaborate on Python, AI integration, and open-source projects.
+
+</td>
+<td width="36%" align="center" valign="middle">
+
+<a href="https://github.com/sree77rag">
+<img src="https://github.com/sree77rag.png?size=320" width="230" alt="Sreerag's GitHub avatar"/>
+</a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=sree77rag&label=PROFILE%20VIEWS&color=e50914&style=for-the-badge&labelColor=0a0a0a" alt="Profile views"/>
+**`LEARN • BUILD • EXPLORE • GROW`**
+
+</td>
+</tr>
+</table>
+
+## 🕸️ ABOUT ME — COMIC PANELS
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔴 01 / FOCUS
+
+Strengthening software development and AI development skills.
+
+</td>
+<td width="50%" valign="top">
+
+### ⚫ 02 / CURRENTLY LEARNING
+
+Python · FastAPI · REST APIs · Databases · LLMs · AI application development.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔴 03 / COLLABORATION
+
+Python, AI integration, and open-source projects.
+
+</td>
+<td width="50%" valign="top">
+
+### ⚫ 04 / EXPLORING
+
+AI engineering, LLM applications, and real-world software development practices.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,50:E62429,100:111111&height=3&section=header" width="80%" alt="Red comic divider"/>
+
+> **WITH GREAT CURIOSITY COMES GREAT CODE.**
+
+<sub>CONSISTENCY × CURIOSITY × PRACTICE</sub>
+
+</div>
+
+---
+
+## 🧰 THE TOOL BELT
+
+<div align="center">
+
+### `01 — LANGUAGES & WEB`
+
+<table>
+<tr align="center">
+<td width="110"><img src="https://skillicons.dev/icons?i=py&theme=dark" width="48" alt="Python"/><br/><sub><b>PYTHON</b></sub></td>
+<td width="110"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" alt="JavaScript"/><br/><sub><b>JAVASCRIPT</b></sub></td>
+<td width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" width="48" height="48" alt="Groovy"/><br/><sub><b>GROOVY</b></sub></td>
+<td width="110"><img src="https://skillicons.dev/icons?i=bash&theme=dark" width="48" alt="Bash"/><br/><sub><b>BASH</b></sub></td>
+<td width="110"><img src="https://skillicons.dev/icons?i=powershell&theme=dark" width="48" alt="PowerShell"/><br/><sub><b>POWERSHELL</b></sub></td>
+<td width="110"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" alt="HTML5"/><br/><sub><b>HTML5</b></sub></td>
+<td width="110"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" alt="CSS3"/><br/><sub><b>CSS3</b></sub></td>
+</tr>
+</table>
+
+### `02 — BACKEND · DATA · TOOLS`
+
+<table>
+<tr align="center">
+<td width="110"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="48" alt="FastAPI"/><br/><sub><b>FASTAPI</b></sub></td>
+<td width="110"><img src="https://skillicons.dev/icons?i=pandas&theme=dark" width="48" alt="Pandas"/><br/><sub><b>PANDAS</b></sub></td>
+<td width="110"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" alt="MySQL"/><br/><sub><b>MYSQL</b></sub></td>
+<td width="110"><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="48" alt="SQLite"/><br/><sub><b>SQLITE</b></sub></td>
+<td width="110"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="48" alt="Firebase"/><br/><sub><b>FIREBASE</b></sub></td>
+<td width="110"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" alt="Git"/><br/><sub><b>GIT</b></sub></td>
+<td width="110"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" alt="GitHub"/><br/><sub><b>GITHUB</b></sub></td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📊 THE GITHUB MULTIVERSE
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sree77rag&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=E62429&icon_color=E62429&text_color=F5F5F5&hide=issues" height="170" alt="GitHub statistics"/>
+
+<img src="https://streak-stats.demolab.com?user=sree77rag&background=0D0D0D&ring=E62429&fire=FF3B3B&currStreakNum=FFFFFF&currStreakLabel=E62429&sideNums=FFFFFF&sideLabels=E62429&dates=B0B0B0&stroke=5B1111&border=5B1111" height="170" alt="GitHub streak statistics"/>
 
 <br/><br/>
 
-<code>KEEP LEARNING · KEEP BUILDING · KEEP EXPLORING</code>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sree77rag&layout=donut&langs_count=5&hide_border=true&bg_color=0D0D0D&title_color=E62429&text_color=F5F5F5" height="170" alt="Most-used programming languages"/>
 
-<sub><code>BETTER CODE — A BRIGHTER TOMORROW</code></sub>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,55:5a0000,100:e50914&height=130&section=footer" alt="footer" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sree77rag&bg_color=0D0D0D&color=F5F5F5&line=E62429&point=FFFFFF&area=true&area_color=8B0000&hide_border=true&title_color=E62429" width="95%" alt="GitHub contribution activity graph"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=sree77rag&label=HEROES%20VISITED&color=E62429&style=for-the-badge&labelColor=111111" alt="Profile views"/>
+
+<br/><br/>
+
+### `KEEP LEARNING. KEEP BUILDING. KEEP EXPLORING.`
+
+<sub>ONE COMMIT AT A TIME.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:4b0000,100:E62429&height=125&section=footer" width="100%" alt="Red and black comic-inspired footer"/>
 
 </div>
