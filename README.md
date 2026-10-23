@@ -1,127 +1,94 @@
-<!-- SPIDER-MAN × HULK DEVELOPER PROFILE -->
-<div align="center">
+# Sreerag S Nair
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,25:0d2f1a,50:4b0000,75:0d4f1c,100:E62429&height=270&section=header&text=SREERAG%20S%20NAIR&fontSize=54&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=SOFTWARE%20DEVELOPMENT%20%2F%2F%20AI%20ENGINEERING&descAlignY=58&descSize=16" width="100%" alt="Sreerag S Nair banner"/>
+**Software Developer** · Backend Systems · LLM Applications · AI-Powered Tools
 
-<!-- Main Typing Animation - Exact match to your screenshots -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2800&pause=900&color=E62429&center=true&vCenter=true&width=820&height=50&lines=SOFTWARE+DEVELOPMENT+%2F%2F+AI+ENGINEERING;PYTHON+%E2%80%A2+FASTAPI+%E2%80%A2+LLM+APPLICATIONS;LEARN.+BUILD.+TEST.+IMPROVE.+REPEAT." alt="Developer tagline"/>
+Kerala, India · [sreeragsn77@gmail.com](mailto:sreeragsn77@gmail.com)
 
-<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreerag-s-a25bbb2b8/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sree77rag)
 
-<a href="mailto:sreeragsn77@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-CONTACT-0D0D0D?style=for-the-badge&logo=gmail&logoColor=E62429&labelColor=0D0D0D&color=1a3a1a" alt="Email"/>
-</a>
-<a href="https://github.com/sree77rag">
-  <img src="https://img.shields.io/badge/GITHUB-SREE77RAG-0D0D0D?style=for-the-badge&logo=github&logoColor=E62429&labelColor=0D0D0D&color=1a3a1a" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=00A86B&labelColor=0D0D0D&color=1a3a1a" alt="LinkedIn"/>
-</a>
+---
 
-</div>
+### About Me
 
-<br/>
+I'm a Software Developer focused on creating clean backend systems, integrating LLMs, and turning ideas into reliable, production-ready applications. I build practical LLM applications and AI-powered tools that solve real-world problems.
 
-<table>
-<tr>
-<td width="62%" valign="middle">
+Currently exploring the intersection of **AI**, **Security**, and **Backend Engineering**.
 
-### ⚡ THE ORIGIN STORY
+---
 
-Building intelligent systems that solve real problems.
+### Skills
 
-I'm a **Software Developer & AI Engineering** enthusiast focused on creating clean backend systems, integrating LLMs, and turning ideas into reliable, production-ready applications.
+**Frontend**  
+`React` `Next.js` `TypeScript` `Tailwind CSS` `Vite`
 
-#### GRINDING
-- 🐍 Master Python + modern backend architecture  
-- 🤖 Build practical LLM applications & AI-powered tools  
-- 🔌 Design fast, secure & scalable REST APIs with FastAPI  
-- 🧠 Understand how systems think — then make them smarter  
-- 🌐 Contribute to open-source AI & Python projects  
+**Backend**  
+`Python` `FastAPI` `Node.js` `Express` `Django`
 
-</td>
-<td width="38%" align="center" valign="middle">
+**Database**  
+`PostgreSQL` `MongoDB`
 
-<a href="https://github.com/sree77rag">
-  <img src="https://github.com/sree77rag.png?size=340" width="220" style="border-radius: 50%; border: 4px solid #E62429; box-shadow: 0 0 30px #00A86B66, 0 0 15px #E6242944;" alt="Sreerag's GitHub avatar"/>
-</a>
+**Tools & Platforms**  
+`Git` `AWS` `Pandas` `NumPy`
 
-<br/><br/>
+---
 
-**LEARN • BUILD • TEST • IMPROVE**
+### Projects
 
-</td>
-</tr>
-</table>
+#### PHISH TRAP
+Phishing detection and protection system that identifies malicious links, redirects users to safer alternatives, and reports phishing attempts.
 
-<br/>
+- **Role**: Backend & Data Processing / Modeling
+- **Tech Stack**: Python, FastAPI, Vite, Pandas, NumPy
+- **Status**: Completed
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,35:E62429,65:00A86B,100:111111&height=5&section=header" width="88%" alt="Spider-Hulk energy divider"/>
-</div>
+#### SMAQR – Smart Retail
+Smart retail web application that simplifies daily shopping, predicts upcoming product price changes, and offers faster payment options.
 
-### 🕸️ ABOUT ME — COMIC PANELS
+- **Role**: Full Stack Developer
+- **Tech Stack**: Python, FastAPI, PostgreSQL, MongoDB, JavaScript, Vite
+- **Repository**: [SMART-retail](https://github.com/sree77rag/SMART-retail)
+- **Status**: In Progress
 
-<table>
-<tr>
-<td width="50%" valign="top" bgcolor="#0D0D0D">
+#### Self-Learning AI Model
+An experimental self-learning AI model currently under development.
 
-**🔴 01 / ROLE**  
-Software Development // AI Engineering
+- **Status**: In Progress
 
-</td>
-<td width="50%" valign="top" bgcolor="#0D0D0D">
+---
 
-**🟢 02 / CURRENTLY LEARNING**  
-Python · FastAPI · REST APIs · LLMs · AI Application Development
+### Experience
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" bgcolor="#0D0D0D">
+**Software Developer Intern**  
+Quest Innovative Solution  
+*July 2026 – January 2027*
 
-**🔴 03 / FOCUS**  
-Building reliable backends + intelligent AI features
+---
 
-</td>
-<td width="50%" valign="top" bgcolor="#0D0D0D">
+### Education
 
-**🟢 04 / EXPLORING**  
-LLM apps, system design & real-world AI engineering
+**B.Tech in Computer Science & Engineering**  
+Malabar Institute of Technology (MIT)  
+*Graduating 2026*
 
-</td>
-</tr>
-</table>
+---
 
-<div align="center">
-<br/>
-<strong>WITH GREAT CURIOSITY COMES GREAT CODE.</strong><br/>
-<sub>CONSISTENCY × CURIOSITY × PRACTICE × GAMMA POWER</sub>
-</div>
+### Areas of Interest
 
-<br/>
+- Large Language Models (LLMs)
+- Artificial Intelligence
+- Cryptography
+- Cybersecurity
+- Networking
 
-### 🧰  TOOLS  
+---
 
-<div align="center">
+### Contact
 
-#### 01 — LANGUAGES & WEB
+- **Email**: [sreeragsn77@gmail.com](mailto:sreeragsn77@gmail.com)
+- **LinkedIn**: [linkedin.com/in/sreerag-s-a25bbb2b8](https://www.linkedin.com/in/sreerag-s-a25bbb2b8/)
+- **GitHub**: [github.com/sree77rag](https://github.com/sree77rag)
 
-<table>
-<tr align="center">
-<td width="100"><img src="https://skillicons.dev/icons?i=py&theme=dark" width="52"/><br/><sub><b>PYTHON</b></sub></td>
-<td width="100"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="52"/><br/><sub><b>JAVASCRIPT</b></sub></td>
-<td width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" width="48" height="48"/><br/><sub><b>GROOVY</b></sub></td>
-<td width="100"><img src="https://skillicons.dev/icons?i=bash&theme=dark" width="52"/><br/><sub><b>BASH</b></sub></td>
-<td width="100"><img src="https://skillicons.dev/icons?i=powershell&theme=dark" width="52"/><br/><sub><b>POWERSHELL</b></sub></td>
-<td width="100"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="52"/><br/><sub><b>HTML5</b></sub></td>
-<td width="100"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="52"/><br/><sub><b>CSS3</b></sub></td>
-</tr>
-</table>
+---
 
-#### 02 — BACKEND · DATA · AI TOOLS
-
-<table>
-<tr align="center">
-<td width="100"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="52"/><br/><sub><b>FASTAPI</b></sub></td>
-<td width="100"><img src="https://skillicons.dev/icons?i=pandas&theme=dark" width="52"/><br/><sub><b
+*This portfolio is built with Next.js + Tailwind CSS. Dark mode enabled by default.*
