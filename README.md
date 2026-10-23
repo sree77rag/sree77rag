@@ -10,10 +10,16 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/sreerag-s-a25bbb2b8/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/sree77rag"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="mailto:sreeragsn77@gmail.com"><img src="https://img.shields.io/badge/Email-E11D48?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<img src="https://komarev.com/ghpvc/?username=sree77rag&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile views"/>
+<a href="https://www.linkedin.com/in/sreerag-s-a25bbb2b8/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/></a>
+<a href="https://github.com/sree77rag"><img src="https://img.shields.io/badge/GitHub-sree77rag-8B5CF6?style=flat-square&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"/></a>
+<a href="mailto:sreeragsn77@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-E11D48?style=flat-square&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/></a>
+
+<br/>
+
+<img src="https://img.shields.io/github/followers/sree77rag?style=flat-square&logo=github&logoColor=white&label=Followers&labelColor=0D1117&color=22D3EE" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/sree77rag?style=flat-square&affiliations=OWNER&logo=github&logoColor=white&label=Stars&labelColor=0D1117&color=FBBF24" alt="Stars"/>
+<img src="https://komarev.com/ghpvc/?username=sree77rag&style=flat-square&color=8B5CF6&labelColor=0D1117&label=Views" alt="Profile views"/>
+<img src="https://img.shields.io/github/last-commit/sree77rag/sree77rag?style=flat-square&logo=git&logoColor=white&label=Last+Update&labelColor=0D1117&color=22C55E" alt="Last update"/>
 
 </div>
 
