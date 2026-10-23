@@ -1,23 +1,38 @@
 <div align="center">
-  
-  <!-- Animated Typing -->
+
+  <!-- Hero Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Sreerag+S+Nair;Software+Developer;Building+LLM+Applications;Backend+%26+AI+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=1200&color=E11D48&center=true&vCenter=true&width=700&lines=Sreerag+S+Nair;Software+Developer;Building+LLM+%26+AI+Systems;Backend+Engineer" alt="Typing SVG" />
   </a>
 
-  <br/><br/>
+  <br><br>
 
-  **Software Developer** · Backend Systems · LLM Applications · AI-Powered Tools
+  <h3>Software Developer</h3>
+  <p>
+    Backend Systems · LLM Applications · AI-Powered Tools
+  </p>
 
-  Kerala, India · [sreeragsn77@gmail.com](mailto:sreeragsn77@gmail.com)
+  <p>
+    <strong>Kerala, India</strong> · 
+    <a href="mailto:sreeragsn77@gmail.com">sreeragsn77@gmail.com</a>
+  </p>
 
-  <br/>
+  <br>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreerag-s-a25bbb2b8/)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sree77rag)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sreeragsn77@gmail.com)
+  <!-- Social Badges -->
+  <a href="https://www.linkedin.com/in/sreerag-s-a25bbb2b8/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/sree77rag">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:sreeragsn77@gmail.com">
+    <img src="https://img.shields.io/badge/Email-E11D48?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 
 </div>
+
+<br>
 
 ---
 
@@ -31,29 +46,23 @@ Currently exploring the intersection of **AI**, **Security**, and **Backend Engi
 
 ### Skills
 
-#### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,vite,python,fastapi,nodejs,express,django,postgres,mongodb,git,aws&theme=dark" alt="Skills" />
+</p>
 
-#### Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+<br>
 
-#### Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+**Frontend**  
+`React` `Next.js` `TypeScript` `Tailwind CSS` `Vite`
 
-#### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+**Backend**  
+`Python` `FastAPI` `Node.js` `Express` `Django`
+
+**Database**  
+`PostgreSQL` `MongoDB`
+
+**Tools & Platforms**  
+`Git` `AWS` `Pandas` `NumPy`
 
 ---
 
@@ -99,7 +108,7 @@ Malabar Institute of Technology (MIT)
 
 ### Areas of Interest
 
-`Large Language Models (LLMs)` `Artificial Intelligence` `Cryptography` `Cybersecurity` `Networking`
+`Large Language Models` `Artificial Intelligence` `Cryptography` `Cybersecurity` `Networking`
 
 ---
 
@@ -112,7 +121,14 @@ Malabar Institute of Technology (MIT)
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sree77rag&style=flat-square&color=8B5CF6" alt="Profile views" />
-  <br/><br/>
-  <i>Built with Next.js + Tailwind CSS · Dark mode by default</i>
+
+  <img src="https://komarev.com/ghpvc/?username=sree77rag&style=flat-square&color=E11D48" alt="Profile views" />
+
+  <br><br>
+
+  <sub>
+    Built with Next.js + Tailwind CSS · Dark mode by default<br>
+    Theme inspired by Spider-Man × Thor
+  </sub>
+
 </div>
